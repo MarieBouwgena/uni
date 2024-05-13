@@ -1,3 +1,11 @@
+---
+title: "recipe book"
+author: "Marie Bogena"
+theme: vapor
+format: qmd
+--- 
+
+
 You want to bake, you want to cook? But you have no idea where to look? Fresh cooking is an art, but it's also not super hard. This is a recipe book from grandmas for people who are not grandmas yet.
 
 #Rafaello Muffins: Zubereitung
